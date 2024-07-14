@@ -1,0 +1,657 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@72e67fae]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1c7f5d7f]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@72e67fae]
+2024.07.14 19:22:13 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.14 19:22:14 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 14, 2024 7:25:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.14 19:25:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 14, 2024 7:26:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.14 19:26:49 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 14, 2024 7:26:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 14, 2024 7:27:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.14 19:27:03 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:00 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:00 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:01 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:01 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:03 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:04 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:08 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:08 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:09 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:09 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:09 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:09 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:09 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:09 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:12 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:12 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:12 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:12 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:14 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:14 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:14 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:14 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:16 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:16 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:17 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:17 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:17 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:16 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:17 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:17 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:22 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:27 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:29 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:30 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:32 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:33 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:35 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:35 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:38 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 14, 2024 7:46:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 150
+2024.07.14 19:46:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:43 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:43 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:43 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:44 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:44 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:44 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:47 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:47 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:49 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:49 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:49 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:52 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:52 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:52 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:54 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:54 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:54 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:56 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:56 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:56 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:56 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:56 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:57 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:57 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:57 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:57 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:58 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:58 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:58 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:59 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:46:59 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:46:59 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:01 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:01 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:02 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:03 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:47:03 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:03 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:03 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:03 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:06 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:07 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:07 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:47:07 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:07 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:24 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala
+2024.07.14 19:47:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:47:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:03 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:03 WARN  Could not find semantic tokens for: file:///C:/Users/aaa/Desktop/FP/activities/practial-5/practical-5/src/main/scala/q1.scala
+2024.07.14 19:48:05 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:13 INFO  no build target found for c:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:16 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:16 WARN  Could not find semantic tokens for: file:///C:/Users/aaa/Desktop/FP/activities/practial-5/practical-5/src/main/scala/q1.scala
+2024.07.14 19:48:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:20 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:22 WARN  Could not find semantic tokens for: file:///C:/Users/aaa/Desktop/FP/activities/practial-5/practical-5/src/main/scala/q1.scala
+2024.07.14 19:48:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:24 WARN  Could not find semantic tokens for: file:///C:/Users/aaa/Desktop/FP/activities/practial-5/practical-5/src/main/scala/q1.scala
+2024.07.14 19:48:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:25 WARN  Could not find semantic tokens for: file:///C:/Users/aaa/Desktop/FP/activities/practial-5/practical-5/src/main/scala/q1.scala
+2024.07.14 19:48:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:25 WARN  Could not find semantic tokens for: file:///C:/Users/aaa/Desktop/FP/activities/practial-5/practical-5/src/main/scala/q1.scala
+2024.07.14 19:48:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:29 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:29 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:29 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:29 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:33 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:33 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:33 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 19:48:33 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:33 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:35 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:38 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 19:48:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:40 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 19:48:40 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:40 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:43 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:43 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 19:48:43 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:43 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:47 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:47 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:48 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 19:48:48 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:48 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 14, 2024 7:48:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 396
+2024.07.14 19:48:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:53 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 19:48:53 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:53 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:54 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:55 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:55 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 19:48:55 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:48:55 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:49:08 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:44 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:45 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:47 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:47 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:47 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:47 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:48 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:48 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:48 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:48 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:48 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:49 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:49 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 19:59:49 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:49 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:52 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:52 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:52 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:52 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:52 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:53 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:54 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 19:59:53 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 19:59:54 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:02 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:02 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:02 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:02 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:02 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:02 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:03 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:04 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:00:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:05 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:05 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:00:05 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:05 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:18 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:19 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:00:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:20 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:21 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:00:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:23 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:00:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:29 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:31 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:00:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:37 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:00:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:39 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:00:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 14, 2024 8:00:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 611
+2024.07.14 20:00:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:40 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:40 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:40 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:41 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:00:41 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:00:41 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:04 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:05 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:06 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:06 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:06 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:06 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:07 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:01:07 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:01:07 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:11 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:11 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:12 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:12 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:13 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:14 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:14 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:14 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:15 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:15 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:14 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:15 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:15 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:16 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:17 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:17 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:17 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:17 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:18 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:18 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:18 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:18 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:19 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:20 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:20 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:21 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:20 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:20 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:21 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:22 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:22 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:23 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:24 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:25 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:26 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:25 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:27 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:28 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:28 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:29 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:29 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:29 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:31 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:31 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:32 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:40 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:42 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:07:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:07:42 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:34 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:34 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:35 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:35 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:35 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:36 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:37 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:08:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:38 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:39 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:08:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:39 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:50 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:08:51 WARN  no build target for: C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala
+2024.07.14 20:08:51 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practial-5\practical-5\src\main\scala\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:14 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.14 20:09:14 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:19 INFO  time: code lens generation in 4.69s
+2024.07.14 20:09:23 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q1.scala)
+2024.07.14 20:09:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:09:25 INFO  Scala CLI: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:25 INFO  Scala CLI: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:25 INFO  Scala CLI: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:30 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala)
+2024.07.14 20:09:30 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:09:31 INFO  Scala CLI: Still downloading:
+2024.07.14 20:09:31 INFO  Scala CLI: https://github.com/coursier/jvm-index/raw/master/index.json (57.01 %, 1000576 / 1755223)
+2024.07.14 20:09:31 INFO  Scala CLI: 
+2024.07.14 20:09:31 INFO  Scala CLI: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:31 INFO  Scala CLI: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:31 INFO  Scala CLI: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:32 INFO  Scala CLI: (watching) Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:32 INFO  Scala CLI: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:32 INFO  Scala CLI: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:32 INFO  Scala CLI: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:32 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:32 INFO  Scala CLI: (watching) Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:32 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:09:33 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:33 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:33 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:34 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:37 INFO  Scala CLI: Still downloading:
+2024.07.14 20:09:37 INFO  Scala CLI: https://github.com/coursier/jvm-index/raw/master/index.json (82.20 %, 1442880 / 1755223)
+2024.07.14 20:09:37 INFO  Scala CLI: 
+2024.07.14 20:09:37 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:09:40 INFO  Scala CLI: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:09:40 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:09:41 INFO  no build target found for C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:10:23 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:10:23 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:10:23 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q1.scala)
+2024.07.14 20:10:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:10:24 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:10:30 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:10:30 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:10:30 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala)
+2024.07.14 20:10:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:10:30 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:11:23 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:11:23 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:11:23 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q1.scala)
+2024.07.14 20:11:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:11:24 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:11:30 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:11:30 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:11:30 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala)
+2024.07.14 20:11:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:11:30 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:12:24 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:12:24 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:12:24 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q1.scala)
+2024.07.14 20:12:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:12:24 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:12:30 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:12:30 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:12:30 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala)
+2024.07.14 20:12:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:12:30 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:13:24 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:13:24 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:13:24 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q1.scala)
+2024.07.14 20:13:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:13:24 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:13:30 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:13:30 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:13:30 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala)
+2024.07.14 20:13:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:13:30 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:14:24 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:14:24 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:14:24 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q1.scala)
+2024.07.14 20:14:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:14:24 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:14:30 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:14:30 WARN  Retrying connection to the build server Scala CLI
+2024.07.14 20:14:30 INFO  Running List(C:\Users\aaa\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\aaa\AppData\Local\Temp\metals-scala-cli5718080080272731415, --semantic-db-source-root, C:\Users\aaa\Desktop\FP\activities\practical-4, C:\Users\aaa\Desktop\FP\activities\practical-4\Q2.scala)
+2024.07.14 20:14:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\aaa\Desktop\FP\activities\practical-4\.metals\bsp.trace.json or C:\Users\aaa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:14:30 INFO  Scala CLI: [error]  Cannot download JVM: temurin:17
+2024.07.14 20:15:24 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:15:24 ERROR Error starting Scala CLI
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1892)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2027)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:737)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:615)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.07.14 20:15:30 ERROR Timeout waiting for 'build/initialize' response
+2024.07.14 20:15:30 ERROR Error starting Scala CLI
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1892)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2027)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:737)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:615)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
